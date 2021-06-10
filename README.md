@@ -7,9 +7,9 @@ This simple web app will utilize the following:
 
 
 - Optional:
- - SpringBoot Java
- - Apache Maven
- - P2P communication (hole punching networking?)
+  - SpringBoot Java
+  - Apache Maven
+  - P2P communication (hole punching networking?)
 
 
 
